@@ -150,7 +150,7 @@ public SecurityFilterChain filterChain(HttpSecurity http) {
 * **Build Tool:** Gradle
 * **Java Version:** JDK 17 이상
 * **Supported Versions:**
-    *   Spring Boot 3.x
+    *   Spring Boot 3.5.9 (Stable)
     *   Spring Security 6.5.7 (Stable)
 * **Usage:** 사용자는 환경 구분 없이 아래 의존성 하나만 사용합니다.
 
